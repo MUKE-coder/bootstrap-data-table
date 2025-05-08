@@ -1,1 +1,0 @@
-# bootstrap-data-table

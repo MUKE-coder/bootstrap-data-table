@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Smartphone X Pro",
+      "category": "Electronics",
+      "current_stock": 24,
+      "supplier_contact": "techsupplies@example.com",
+      "price": "$899.99",
+      "cost_price": "$650.00"
+    },
+    {
+      "id": "2",
+      "name": "Wireless Earbuds",
+      "category": "Electronics",
+      "current_stock": 45,
+      "supplier_contact": "audiosupplier@example.com",
+      "price": "$129.99",
+      "cost_price": "$75.50"
+    },
+    {
+      "id": "3",
+      "name": "Smart Watch Series 5",
+      "category": "Electronics",
+      "current_stock": 18,
+      "supplier_contact": "techsupplies@example.com",
+      "price": "$349.99",
+      "cost_price": "$220.00"
+    },
+    {
+      "id": "4",
+      "name": "Laptop Pro 15\"",
+      "category": "Electronics",
+      "current_stock": 12,
+      "supplier_contact": "computersupplies@example.com",
+      "price": "$1299.99",
+      "cost_price": "$950.00"
+    },
+    {
+      "id": "5",
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "current_stock": 30,
+      "supplier_contact": "audiosupplier@example.com",
+      "price": "$79.99",
+      "cost_price": "$45.00"
+    },
+    {
+      "id": "6",
+      "name": "Coffee Maker",
+      "category": "Home Appliances",
+      "current_stock": 15,
+      "supplier_contact": "homeappliances@example.com",
+      "price": "$89.99",
+      "cost_price": "$52.50"
+    },
+    {
+      "id": "7",
+      "name": "Blender 3000",
+      "category": "Home Appliances",
+      "current_stock": 8,
+      "supplier_contact": "homeappliances@example.com",
+      "price": "$59.99",
+      "cost_price": "$32.00"
+    },
+    {
+      "id": "8",
+      "name": "4K Smart TV 55\"",
+      "category": "Electronics",
+      "current_stock": 10,
+      "supplier_contact": "electronicswholesale@example.com",
+      "price": "$699.99",
+      "cost_price": "$450.00"
+    },
+    {
+      "id": "9",
+      "name": "Gaming Console Pro",
+      "category": "Electronics",
+      "current_stock": 5,
+      "supplier_contact": "gamesupplier@example.com",
+      "price": "$499.99",
+      "cost_price": "$350.00"
+    },
+    {
+      "id": "10",
+      "name": "Desk Lamp LED",
+      "category": "Home Decor",
+      "current_stock": 22,
+      "supplier_contact": "lightingsupplier@example.com",
+      "price": "$39.99",
+      "cost_price": "$18.00"
+    },
+    {
+      "id": "11",
+      "name": "Wall Clock Modern",
+      "category": "Home Decor",
+      "current_stock": 14,
+      "supplier_contact": "homedecor@example.com",
+      "price": "$29.99",
+      "cost_price": "$12.50"
+    },
+    {
+      "id": "12",
+      "name": "Toaster 2-Slice",
+      "category": "Home Appliances",
+      "current_stock": 20,
+      "supplier_contact": "homeappliances@example.com",
+      "price": "$35.99",
+      "cost_price": "$17.00"
+    },
+    {
+      "id": "13",
+      "name": "External Hard Drive 1TB",
+      "category": "Electronics",
+      "current_stock": 16,
+      "supplier_contact": "computersupplies@example.com",
+      "price": "$89.99",
+      "cost_price": "$55.00"
+    },
+    {
+      "id": "14",
+      "name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "current_stock": 25,
+      "supplier_contact": "peripheralsupplier@example.com",
+      "price": "$129.99",
+      "cost_price": "$75.00"
+    },
+    {
+      "id": "15",
+      "name": "Gaming Mouse",
+      "category": "Electronics",
+      "current_stock": 30,
+      "supplier_contact": "peripheralsupplier@example.com",
+      "price": "$79.99",
+      "cost_price": "$40.00"
+    },
+    {
+      "id": "16",
+      "name": "Microwave Oven",
+      "category": "Home Appliances",
+      "current_stock": 7,
+      "supplier_contact": "homeappliances@example.com",
+      "price": "$119.99",
+      "cost_price": "$75.00"
+    },
+    {
+      "id": "17",
+      "name": "Vacuum Cleaner",
+      "category": "Home Appliances",
+      "current_stock": 9,
+      "supplier_contact": "homeappliances@example.com",
+      "price": "$149.99",
+      "cost_price": "$90.00"
+    },
+    {
+      "id": "18",
+      "name": "Bluetooth Headphones",
+      "category": "Electronics",
+      "current_stock": 28,
+      "supplier_contact": "audiosupplier@example.com",
+      "price": "$199.99",
+      "cost_price": "$120.00"
+    },
+    {
+      "id": "19",
+      "name": "Air Purifier",
+      "category": "Home Appliances",
+      "current_stock": 6,
+      "supplier_contact": "homeappliances@example.com",
+      "price": "$159.99",
+      "cost_price": "$95.00"
+    },
+    {
+      "id": "20",
+      "name": "Digital Camera",
+      "category": "Electronics",
+      "current_stock": 12,
+      "supplier_contact": "camerasupplies@example.com",
+      "price": "$349.99",
+      "cost_price": "$220.00"
+    },
+    {
+      "id": "21",
+      "name": "Standing Desk",
+      "category": "Furniture",
+      "current_stock": 5,
+      "supplier_contact": "furnituresupplier@example.com",
+      "price": "$299.99",
+      "cost_price": "$180.00"
+    },
+    {
+      "id": "22",
+      "name": "Office Chair",
+      "category": "Furniture",
+      "current_stock": 8,
+      "supplier_contact": "furnituresupplier@example.com",
+      "price": "$179.99",
+      "cost_price": "$110.00"
+    },
+    {
+      "id": "23",
+      "name": "Portable Power Bank",
+      "category": "Electronics",
+      "current_stock": 40,
+      "supplier_contact": "mobilesupplies@example.com",
+      "price": "$49.99",
+      "cost_price": "$25.00"
+    },
+    {
+      "id": "24",
+      "name": "Wireless Charger",
+      "category": "Electronics",
+      "current_stock": 35,
+      "supplier_contact": "mobilesupplies@example.com",
+      "price": "$39.99",
+      "cost_price": "$18.50"
+    },
+    {
+      "id": "25",
+      "name": "LED Desk Light",
+      "category": "Home Decor",
+      "current_stock": 15,
+      "supplier_contact": "lightingsupplier@example.com",
+      "price": "$45.99",
+      "cost_price": "$22.00"
+    },
+    {
+      "id": "26",
+      "name": "Water Bottle",
+      "category": "Kitchenware",
+      "current_stock": 50,
+      "supplier_contact": "kitchensupplier@example.com",
+      "price": "$19.99",
+      "cost_price": "$8.00"
+    },
+    {
+      "id": "27",
+      "name": "iPhone Case",
+      "category": "Mobile Accessories",
+      "current_stock": 60,
+      "supplier_contact": "mobilesupplies@example.com",
+      "price": "$24.99",
+      "cost_price": "$10.00"
+    },
+    {
+      "id": "28",
+      "name": "USB-C Cable Pack",
+      "category": "Electronics",
+      "current_stock": 75,
+      "supplier_contact": "cablessupplier@example.com",
+      "price": "$15.99",
+      "cost_price": "$5.50"
+    },
+    {
+      "id": "29",
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "current_stock": 32,
+      "supplier_contact": "peripheralsupplier@example.com",
+      "price": "$39.99",
+      "cost_price": "$18.00"
+    },
+    {
+      "id": "30",
+      "name": "HDMI Cable 2m",
+      "category": "Electronics",
+      "current_stock": 45,
+      "supplier_contact": "cablessupplier@example.com",
+      "price": "$12.99",
+      "cost_price": "$4.50"
+    }
+  ]
+}
